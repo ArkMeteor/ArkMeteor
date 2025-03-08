@@ -6,12 +6,6 @@
 🔹  My goal? A high-impact tech career with expertise that stands out. Currently, I am focused on building a strong portfolio that showcases my expertise in ethical hacking, AI-driven security, and innovative development. 
 🔹  Beyond code, I thrive on poetry, sketching, and relentless self-improvement—shaping not just a developer, but a Visionary and Leader. This journey is not just about mastering technology but also about evolving into a well-rounded, impactful individual. 
 
-## 🤔 Why me??
-
-  I don’t just learn—I master. With a deep passion for AI and Cybersecurity, I build solutions that are innovative, efficient, and secure. 
-  My focus is on deep learning, problem-solving, and creating impact.  I believe in deep learning, innovation, and problem-solving, ensuring mastery in every skill I pursue. 
-  I thrive in challenges, adapt quickly, and ensure that every project I touch is a step toward excellence.
-
 ## 🖥️ Tech-Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,4 +33,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrathour.love@gmail.com)
 
+## 🤔 Why me??
 
+  I don’t just learn—I master. With a deep passion for AI and Cybersecurity, I build solutions that are innovative, efficient, and secure. 
+  My focus is on deep learning, problem-solving, and creating impact.  I believe in deep learning, innovation, and problem-solving, ensuring mastery in every skill I pursue. 
+  I thrive in challenges, adapt quickly, and ensure that every project I touch is a step toward excellence.
