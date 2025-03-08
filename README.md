@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ayush Singh Rathore  
+# Hi there! 👋 I'm Ayush Rathore  
 
 ## ☄️ About Me
 
