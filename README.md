@@ -43,10 +43,6 @@
 
 ### ✅ Completed
 
-## 🚀 Projects
-
-### ✅ Completed
-
 #### 🔐 धर्मो रक्षति रक्षितः (Dharma Rakshati Rakshitah) – Cybersecurity Toolkit & Learning Platform
 A comprehensive cybersecurity platform built for learning and practicing real-world infosec skills.
 
