@@ -53,7 +53,7 @@ A comprehensive cybersecurity platform built for learning and practicing real-wo
 - 🕵️ Steganography Tool  
 - 📚 Cybersecurity Quiz & Learning Modules  
 - 📰 Cybersecurity News Feed  
-- 🛡️ Real-time Security Indicators  
+- 🛡️ Keylogger
 
 **🔐 Security Highlights:**
 - Local password generation (no server communication)  
@@ -70,8 +70,7 @@ A comprehensive cybersecurity platform built for learning and practicing real-wo
 
 **🌟 Vision Ahead:**
 - AI-based cybersecurity integration  
-- Open-source launch & future startup potential  
-
+- Open-source launch & future startup potential as Virtual Classroom
 
 ---
 
